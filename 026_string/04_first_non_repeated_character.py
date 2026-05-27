@@ -4,7 +4,7 @@
 
 s = input('Enter the string: ')
 i = 0
-j = 0
+f = 0
 while i < len(s):
    count = 0
    j = 0
