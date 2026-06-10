@@ -50,9 +50,11 @@ print(s1)  # {'name': 'dipu', 'age': 30, 'city': 'chennai'}
 
 s1.update({"salary": 90000})
 
-print(s1)
+print(s1)  # {'name': 'dipu', 'age': 30, 'city': 'chennai', 'salary': 90000}
 
-print(student)    
+print(student)    # {'name': 'dipu', 'age': 30, 'city': 'chennai'}
+
+ 
     
 
     
