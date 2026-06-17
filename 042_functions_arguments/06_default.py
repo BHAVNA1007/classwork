@@ -27,6 +27,11 @@ Address is :  chennai
 salary:   34000
 '''
 def hello("dipu",age,address="indore", salary="5000"):
+'''
+ def hello("dipu",age,address="indore", salary="5000"):
+              ^^^^^^
+SyntaxError: invalid syntax
+'''    
     print("Name is : ",name)
     print("Age is: ", age)
     print("Address is : ", address)

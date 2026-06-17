@@ -23,6 +23,7 @@ def evenlist(n):
 def main():
     print("welcome")
     x = evenlist([10,20,30,40])
+    print(x)
     print(type(x))
 main()    
 '''
